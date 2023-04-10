@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет, меня зовут Никита! 👋
 
-<!--
-**NikitaPlatonov/NikitaPlatonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Обо мне: Я начинающий backend-разработчик на Java. Учусь на онлайн образовательной платформе Нетологии.
 
-Here are some ideas to get you started:
+* Учусь на нетологии!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Хочу освоить новую профессию и найти работу.
+
+* Как связаться со мной :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-NikitaPlatonov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/luxhach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](platonovnikita3010@gmail.com)
+
+#### 💻 Технологии:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> <img src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+
+#### 🛠 Инструменты: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="60" height="60"/>
