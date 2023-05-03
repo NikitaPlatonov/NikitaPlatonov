@@ -18,3 +18,5 @@
 #### ⚡ Мои проекты:
 
 * [Конвертер в текствую графику](https://github.com/NikitaPlatonov/Converter-to-Text-graphics)
+* [Менежер личных финансов](https://github.com/NikitaPlatonov/Course-work-2)
+
