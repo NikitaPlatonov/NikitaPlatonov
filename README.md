@@ -19,4 +19,4 @@
 
 * [Конвертер в текствую графику](https://github.com/NikitaPlatonov/Converter-to-Text-graphics)
 * [Менежер личных финансов](https://github.com/NikitaPlatonov/Course-work-2)
-
+* [Поиск слова в pdf-файле](https://github.com/NikitaPlatonov/Diplom-netology)
