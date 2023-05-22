@@ -6,7 +6,7 @@
 
 * Хочу освоить новую профессию и найти работу.
 
-* Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-NikitaPlatonov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/luxhach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](platonovnikita3010@gmail.com)
+* Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-NikitaPlatonov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NikitaDeveloper) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](platonovnikita3010@gmail.com)
 
 #### 💻 Технологии:
 
