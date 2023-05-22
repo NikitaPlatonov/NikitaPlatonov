@@ -15,7 +15,7 @@
 #### 🛠 Инструменты: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="60" height="60"/>
 
-#### ⚡ Мои проекты:
+#### ⚡ Примеры моих работ:
 
 * [Конвертер в текствую графику](https://github.com/NikitaPlatonov/Converter-to-Text-graphics)
 * [Менежер личных финансов](https://github.com/NikitaPlatonov/Course-work-2)
