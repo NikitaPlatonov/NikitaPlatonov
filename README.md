@@ -10,10 +10,10 @@
 
 #### 💻 Технологии:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> <img src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> <img src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="git" alt="git" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>
 
 #### 🛠 Инструменты: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="intellij" alt="intellij" width="60" height="60"/>
 
 #### ⚡ Примеры моих работ:
 
@@ -21,3 +21,6 @@
 * [Менежер личных финансов](https://github.com/NikitaPlatonov/Course-work-2)
 * [Менеджер задач](https://github.com/NikitaPlatonov/Course-work-3)
 * [Поиск слова в pdf-файле](https://github.com/NikitaPlatonov/Diplom-netology)
+
+**Spring:**
+* [Мои задачи](https://github.com/NikitaPlatonov/My-Tasks)
